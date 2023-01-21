@@ -3,6 +3,7 @@ The first big project. Game inspired by Jetpack Joyride. Includes collision dete
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98673048/213800633-78db876f-5d55-42e0-974c-879f13b57629.jpg" width=20%>
-  <img src="https://user-images.githubusercontent.com/98673048/213800629-196879c4-a3ff-4eed-a8a7-d723e3d45143.jpg" width=20%>
+  <img src="https://user-images.githubusercontent.com/98673048/213878341-7cbbe15a-3100-4386-937f-a2baaa032a82.png" width=70%>
+  <img src="https://user-images.githubusercontent.com/98673048/213878344-7a83d408-24e0-420f-8ca1-8464d1dd279f.png" width=70%>
+  <img src="https://user-images.githubusercontent.com/98673048/213878356-baba7fc6-eb11-4690-a45d-84aa9a77beab.png" width=70%>
 </p>
